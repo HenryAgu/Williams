@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b88f29ee.css",
+    "main.js": "/static/js/main.08cf5b2b.js",
+    "static/media/review.png": "/static/media/review.29dfdfa17655439de7c2.png",
+    "static/media/team-work.png": "/static/media/team-work.09d8604f4b403fc0ce9b.png",
+    "static/media/image1.png": "/static/media/image1.ada9d444cf6c586bfdd9.png",
+    "static/media/project.png": "/static/media/project.d82922947971d58ac277.png",
+    "static/media/automation.png": "/static/media/automation.1c0f713800dae9c06630.png",
+    "static/media/lady.png": "/static/media/lady.ece6de657dbec3a31829.png",
+    "static/media/man.png": "/static/media/man.32dfe10a1c5c9baf84c6.png",
+    "static/media/sign-up-image.png": "/static/media/sign-up-image.29a3286c67b78af6235d.png",
+    "static/media/zapier.png": "/static/media/zapier.0f99e7601a4b59099715.png",
+    "static/media/creative.JPG": "/static/media/creative.affae7c10a4f13f3c4c0.JPG",
+    "static/media/google-calendar.png": "/static/media/google-calendar.33c3fc1eb7b624bd0a0e.png",
+    "static/media/logo2.png": "/static/media/logo2.6fde1b5c1b369fa2ae2b.png",
+    "static/media/logo.png": "/static/media/logo.2699ebc9c8a28204a7d9.png",
+    "index.html": "/index.html",
+    "main.b88f29ee.css.map": "/static/css/main.b88f29ee.css.map",
+    "main.08cf5b2b.js.map": "/static/js/main.08cf5b2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b88f29ee.css",
+    "static/js/main.08cf5b2b.js"
+  ]
+}
